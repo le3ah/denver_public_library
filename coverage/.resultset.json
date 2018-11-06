@@ -1,19 +1,28 @@
 {
   "Unit Tests": {
     "coverage": {
-      "/Users/leahkmiller/turing/1module/independent_challenges/denver_public_library/lib/book.rb": [
+      "/Users/leahkmiller/turing/1module/independent_challenges/denver_public_library/lib/library.rb": [
         1,
         1,
-        1,
-        5,
-        5,
-        5,
-        5,
         null,
+        null,
+        null
+      ],
+      "/Users/leahkmiller/turing/1module/independent_challenges/denver_public_library/lib/author.rb": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        null,
+        null,
+        1,
+        0,
         null,
         null
       ]
     },
-    "timestamp": 1541475528
+    "timestamp": 1541476571
   }
 }
